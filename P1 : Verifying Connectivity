@@ -1,0 +1,14 @@
+# Part 1: Verify Connectivity
+
+## Step 1: Verify IP Address on a PC
+1. On a PC, go to **Desktop → Command Prompt**.
+2. Enter the command to check the IP address assigned via DHCP.
+
+**Question:**  
+What command did you use to verify the IP address from DHCP?  
+*Answer here (typically `ipconfig`).*
+
+---
+
+## Step 2: Verify Connectivity to HQ
+1. At the Command Prompt, ping the router using its IP address:
