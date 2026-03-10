@@ -1,0 +1,4 @@
+# Part 2: Access a Remote Device
+
+## Step 1: Telnet to HQ
+1. At the command prompt, enter: telnet 64.100.1.1
