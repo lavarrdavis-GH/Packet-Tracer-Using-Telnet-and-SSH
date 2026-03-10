@@ -2,3 +2,21 @@
 
 ## Step 1: Telnet to HQ
 1. At the command prompt, enter: telnet 64.100.1.1
+2. Observe the result.
+
+**Question:**  
+Were you successful? What was the output?  
+*Answer here (Telnet might fail if router is configured to disallow it).*
+
+---
+
+## Step 2: SSH to HQ
+1. At the command prompt, enter: ssh -l admin 64.100.1.1
+2. Enter the password: `class`
+3. You should now be logged into the router securely.
+
+**Question:**  
+What is the prompt after accessing the router successfully via SSH?  
+*Answer here (typically something like `HQ>` or `HQ#`).*
+
+> Successful SSH confirms secure remote access to the router.
